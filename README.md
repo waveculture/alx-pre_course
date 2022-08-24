@@ -1,1 +1,1 @@
-My first readme
+this project is about alx pre course
